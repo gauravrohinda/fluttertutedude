@@ -5,7 +5,7 @@ void main() {
   print("List:");
   print(fruits);
 
-  Set<int> numbers = {1, 2, 3, 3, 4};
+  Set<int> numbers = {1, 2, 3, 6, 4};
   print("\nSet:");
   print(numbers);
 
