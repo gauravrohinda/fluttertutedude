@@ -12,7 +12,7 @@ This is a very simple and fun Flutter app that acts like a real dice! You can us
    - We built the dice using code instead of downloading images, so the app is super fast and will never crash!
 
 ## App Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot]![alt text](image.png)
 
 *(Note: Just put a picture named `screenshot.png` in this folder, and it will show up right here!)*
 
