@@ -9,6 +9,7 @@ Install Flutter, verify the installation, create a sample Flutter application, a
 - Platform: Windows 11
 - Android SDK: 37.0.0
 
+![alt text](img_v3_02157_4f5eed2c-ddb2-41ec-9da7-30699201f5hu.jpg)
 ## Commands Used
 
 ```bash
