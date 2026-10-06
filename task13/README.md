@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+![alt text](img_v3_02167_72ffe7ec-12b7-4a34-b205-6b9f65ead3hu.jpg)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
